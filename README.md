@@ -1,115 +1,91 @@
-# Engineering Systems Portfolio
+# Charles Castillo — Software & AI Systems Engineer
 
-**Software Engineer · AI Systems Engineer · Systems Architect**
+**Full-Stack · Backend · Applied AI · Platform · Systems Engineering**
 
-I design and build governed AI systems, developer infrastructure, operational platforms, marketplaces, media systems, and end-to-end software products.
+I turn ambiguous technical and operational problems into buildable systems: architecture, APIs, data models, permissions, workflows, validation, recovery, and working software.
 
-My work focuses on reducing complex domains to their underlying mechanics, identifying structural failure points, and turning those findings into complete architectures, products, workflows, governance models, and implementation plans.
+**Available immediately** for software engineering, full-stack, backend, applied AI, AI systems, forward-deployed, platform, integration, and product-engineering opportunities in New York City, hybrid, or remote.
 
-[LinkedIn](https://www.linkedin.com/in/charles-castillo-848847415/)
+[LinkedIn](https://www.linkedin.com/in/charles-castillo-848847415/) · [Email](mailto:charlescastillo718@gmail.com)
 
-## Current focus
+## What I build
 
-- governed AI and long-running agent systems;
-- AI-native developer infrastructure;
-- execution verification, memory, recovery, and governance;
-- end-to-end web, mobile, API, and operational platforms;
-- marketplace, logistics, media, intellectual-property, and workforce systems;
-- local-first and customer-controlled software architecture.
+- full-stack and backend applications;
+- applied AI and local-first AI systems;
+- developer infrastructure and AI-native engineering tools;
+- data platforms and source-agnostic architectures;
+- governed execution, permissions, verification, recovery, and auditability;
+- operational products that connect software to real business workflows;
+- robotics and embodied-intelligence architecture.
 
-## GitHub Developer Program
+## Featured engineering work
 
-I am a registered member of the **GitHub Developer Program**.
-
-**Sessions** is the product currently associated with my GitHub integration work. Its planned GitHub App will connect repository authorization, commits, pull requests, webhook events, validation evidence, execution history, release state, deployment records, replay, recovery, and rollback context.
-
-> Developer Program membership represents an active integration relationship with GitHub. It does not imply GitHub certification or endorsement of my products.
-
-## Featured systems
-
-| Project | Description |
+| Project | What it demonstrates |
 |---|---|
-| [Sessions](https://github.com/mrcodeislife718/Sessions-) | AI-native source control and execution-assurance infrastructure that records repository state, agent activity, verification evidence, deployment history, recovery, and rollback context. |
-| [Teamwork](https://github.com/mrcodeislife718/Teamwork) | Customer-controlled AI platform ecosystem spanning governed AI deployment, data intelligence, release assurance, and API testing. |
-| [IPX](https://github.com/mrcodeislife718/IPX) | Independent intellectual-property platform for records, evidence, examination, maintenance, licensing, commercialization, and verification. |
-| [Jiffy Laundry](https://github.com/mrcodeislife718/Jiffy-Laundry-App) | End-to-end laundry pickup, delivery, logistics, order, supply-chain, and administrative operations platform. |
-| [Orca Store](https://github.com/mrcodeislife718/Orca-Store) | Digital-labor marketplace, deployment, governance, protection, and workforce-operations platform. |
-| [Watchable](https://github.com/mrcodeislife718/Watchable) | Streaming and media platform spanning film, television, sports, live programming, creator economics, rights operations, and monetization. |
-| [Nearby](https://github.com/mrcodeislife718/Nearby) | AI-powered hyperlocal commerce, mobility, delivery logistics, and marketplace operations across rideshare, food, cannabis, grocery, and retail. |
-| [No-Cap](https://github.com/mrcodeislife718/No-Cap) | Newsletter-first AI-native news and media platform for editorial production, breaking coverage, audience ownership, and multi-format distribution. |
-| [Dev-Zero](https://github.com/mrcodeislife718/Dev-Zero-) | Developer and engineering system focused on reducing friction between product intent, implementation, validation, and delivery. |
-| [G.A.I.A](https://github.com/mrcodeislife718/G.A.I.A) | A separate advanced-intelligence architecture within my broader governed AI research and systems work. |
-| [Boop](https://github.com/mrcodeislife718/Boop) | Product and platform architecture developed as part of my broader body of end-to-end software systems. |
-| [Axion](https://github.com/mrcodeislife718/Axion) | Systems project within my wider portfolio of AI, infrastructure, product, and operational architectures. |
+| [Jiffy Laundry](https://github.com/mrcodeislife718/Jiffy-Laundry-App) | **Full-stack product engineering.** Multi-role laundry, logistics, dispatch, order, payment, staff, driver, and administrative operations platform built on a TypeScript/React/Express foundation. |
+| [J.A.R.V.I.S](https://github.com/mrcodeislife718/J.A.R.V.I.S) | **Applied AI + backend systems.** Governed local-first AI operating platform with mission compilation, model/tool routing, verification, controlled memory writes, persistence, and multi-domain APIs. |
+| [Teamwork Data](https://github.com/mrcodeislife718/Teamwork-Data) | **Data + systems architecture.** Source-agnostic universal data viewer designed around connector boundaries and a core that remains independent of specific databases and file formats. |
+| [Sessions](https://github.com/mrcodeislife718/Sessions-) | **Developer infrastructure.** AI-native source control and execution-assurance architecture for snapshots, execution lineage, verification, observability, replay, recovery, and rollback. |
+| [Axion](https://github.com/mrcodeislife718/Axion) | **AI infrastructure + interoperability.** Identity, manifest, compatibility, discovery, integrity, verification, and trust infrastructure for AI systems. |
+| [ECA-1](https://github.com/mrcodeislife718/ECA-1-) | **Robotics + systems engineering.** Hardware-agnostic embodied cognitive architecture connecting perception, body/world state, governed action, recovery, safety, and universal robot integration boundaries. |
 
-## Private and protected work
+## Additional systems
 
-Some of my most advanced systems remain private or expose only controlled public documentation surfaces. This includes proprietary governed-AI architecture, implementation details, security-sensitive components, internal execution contracts, and commercial deployment assets.
+- **Workforce** — digital workforce marketplace, deployment, permissioning, governance, lifecycle, and workforce-operations platform. The repository is currently named `Orca-Store` while the product is being rebranded to Workforce.
+- **Epiphany** — governed intelligence architecture and developmental runtime focused on continuity, memory, reasoning, validation, resilience, and controlled evolution.
+- **Codeable** — AI-native software-engineering workflow system that converts product goals into architecture, tasks, repository changes, tests, validation, repair loops, and release workflows.
+- **IPX** — intellectual-property workflow, evidence, records, verification, lifecycle, and commercialization infrastructure.
+- **JobFlow / GigFlow** — employment and gig-economy product concepts within the broader software portfolio.
 
-My public GitHub follows an **open perimeter, protected core** model: enough architecture and product definition to establish the work clearly without publishing the proprietary implementation that creates the competitive advantage.
+## Engineering stack
 
-## Engineering capabilities
+**Languages & application:** JavaScript, TypeScript, Python, SQL, React, Next.js, React Native, Expo, HTML, CSS, Tailwind CSS  
+**Backend & APIs:** Node.js, Express, NestJS, REST APIs, authentication, authorization, RBAC, webhooks, real-time workflows  
+**Data & platform:** PostgreSQL, Supabase, Firebase, MongoDB, Prisma, Drizzle ORM, Redis, Docker, Linux, Git/GitHub, Vercel  
+**Applied AI:** LLM applications, model/tool routing, context engineering, memory/retrieval, evaluations, local models, governed execution  
+**Delivery:** requirements, architecture, implementation, testing, debugging, validation, observability, rollback, documentation
 
-### Application and platform engineering
-
-- TypeScript and JavaScript
-- React, Next.js, React Native, and Expo
-- Node.js, Express, and NestJS
-- PostgreSQL, Redis, Prisma, Drizzle, and Supabase
-- REST APIs, WebSockets, queues, and event-driven systems
-- Docker, Docker Compose, CI/CD, and deployment workflows
-
-### AI systems
-
-- governed agent architecture;
-- model and provider routing;
-- tool and capability authorization;
-- long-running memory and continuity systems;
-- validation, evidence, and audit trails;
-- human approval and constitutional control;
-- local and hosted model integration;
-- execution recovery, rollback, and observability.
-
-### Systems design
-
-- product and technical architecture;
-- operational workflow design;
-- governance and authority boundaries;
-- marketplace and financial-system design;
-- compliance-aware systems;
-- failure analysis and resilience;
-- business models and commercialization;
-- complete frontend, backend, data, and infrastructure planning.
-
-## How I approach systems
+## How I approach difficult systems
 
 ```text
 Input
-  -> Process
-  -> Output
-  -> Feedback
-  -> Incentives
-  -> Bottlenecks
-  -> Dependencies
-  -> Failure points
-  -> redesigned operating system
+→ Process
+→ Output
+→ Feedback
+→ Incentives
+→ Bottlenecks
+→ Dependencies
+→ Failure Points
+→ Architecture
+→ Implementation
+→ Validation
+→ Iteration
 ```
 
-I do not treat software as isolated screens and endpoints. I examine the full system: users, incentives, authority, data, operations, money, failure modes, recovery, and long-term evolution.
+I am strongest when the problem is not already neatly defined. I map the system, identify the constraints and failure modes, choose the boundaries, build the implementation, test what actually happens, and iterate from evidence.
 
-## Engineering principles
+## Professional background
 
-- Evidence before confidence
-- Owner retains final authority
-- Customer-controlled infrastructure where possible
-- No opaque success claims
-- Verification must survive inspection
-- Critical actions must be observable and reversible
-- Products should solve the operating system, not only the interface
-- Proprietary core, controlled public perimeter
+- **Lead Software Developer — JiffyLaundry** | 2023–Present
+- **Independent Software & AI Systems Engineer** | 2023–Present
+- **Full-Stack Software Development** | hands-on development since 2020
+- **Per Scholas — Full Stack Web Development Intensive** | 2023
+- U.S. work authorized · Bronx / New York City · available immediately
 
-## Collaboration
+## GitHub Developer Program
 
-I am open to professional engineering opportunities, technical partnerships, product collaborations, and selected nonprofit work where my systems and software experience can create meaningful impact.
+I am a registered member of the **GitHub Developer Program**. Sessions is the product associated with my GitHub integration work around repository authorization, commits, pull requests, webhook events, validation evidence, execution history, releases, recovery, and rollback.
 
-**Design the system. Build the infrastructure. Verify the outcome.**
+Developer Program membership is a development relationship and does not represent GitHub certification or endorsement.
+
+## Public vs. protected work
+
+Some advanced systems expose a controlled public technical surface while proprietary implementation, security-sensitive components, protected evaluations, and commercial deployment assets remain private.
+
+Public repositories are intended to make the engineering problem, architecture, implementation status, and boundaries understandable without publishing protected IP.
+
+## Contact
+
+I am open to **full-time, contract, contract-to-hire, and high-impact engineering work** and can start immediately.
+
+**Software problems worth solving are welcome.**
