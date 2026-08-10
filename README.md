@@ -31,7 +31,7 @@ I turn ambiguous technical and operational problems into buildable systems: arch
 
 ## Additional systems
 
-- **Workforce** — digital workforce marketplace, deployment, permissioning, governance, lifecycle, and workforce-operations platform. The repository is currently named `Orca-Store` while the product is being rebranded to Workforce.
+- **[Workforce](https://github.com/mrcodeislife718/Orca-Store)** — digital workforce marketplace, deployment, permissioning, governance, lifecycle, and workforce-operations platform.
 - **Epiphany** — governed intelligence architecture and developmental runtime focused on continuity, memory, reasoning, validation, resilience, and controlled evolution.
 - **Codeable** — AI-native software-engineering workflow system that converts product goals into architecture, tasks, repository changes, tests, validation, repair loops, and release workflows.
 - **IPX** — intellectual-property workflow, evidence, records, verification, lifecycle, and commercialization infrastructure.
