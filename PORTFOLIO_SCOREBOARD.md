@@ -6,6 +6,8 @@ A green/proven gate requires an artifact in the project repository. Unknown or u
 
 Legend: **P = PROVEN**, **~ = PARTIAL**, **U = UNPROVEN**, **— = N/A**.
 
+> `Jiffy-Laundry-App` is intentionally excluded from active portfolio prioritization and scoring per owner directive.
+
 | Project | Track | Impl | Tests | Failure | Bench | Proof | Security | Deploy | Users | Revenue | Docs | Incumbent | Superiority | Switching | Moat | Acquisition |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | applied-ai-erp-agent | Engineering proof / agent | P | P | ~ | ~ | ~ | ~ | U | — | — | ~ | ~ | ~ | — | ~ | — |
@@ -35,7 +37,6 @@ Legend: **P = PROVEN**, **~ = PARTIAL**, **U = UNPROVEN**, **— = N/A**.
 | Hired-Ai | Agent system / commercial candidate | ~ | ~ | ~ | U | ~ | ~ | U | U | U | ~ | U | U | U | ~ | U |
 | IPX | Commercial IP platform | ~ | U | U | U | U | ~ | U | U | U | ~ | U | U | U | ~ | U |
 | J.A.R.V.I.S | Interoperability infrastructure | ~ | ~ | U | U | U | ~ | U | — | — | ~ | U | U | — | ~ | — |
-| Jiffy-Laundry-App | Commercial product | P | ~ | ~ | U | ~ | ~ | ~ | ~ | U | ~ | U | U | U | ~ | U |
 | JobFlow- | Commercial agent product | ~ | ~ | ~ | U | ~ | ~ | U | U | U | ~ | ~ | ~ | ~ | ~ | U |
 | Knowledge-Base-Ai | AI product | P | ~ | U | U | ~ | ~ | ~ | U | U | ~ | U | U | U | ~ | U |
 | Maestro | AI runtime research | P | P | ~ | ~ | ~ | — | U | — | — | P | ~ | ~ | — | ~ | — |
@@ -65,7 +66,7 @@ Legend: **P = PROVEN**, **~ = PARTIAL**, **U = UNPROVEN**, **— = N/A**.
 
 ## Immediate portfolio priorities
 
-1. **Finish & monetize now:** Sessions, JobFlow, Measure, WorkForce, Jiffy Laundry, Muze, Watchable, Codeable.
+1. **Finish & monetize now:** Sessions, JobFlow, Measure, WorkForce, Muze, Watchable, Codeable.
 2. **Produce hard engineering proof:** applied-ai-erp-agent, Sessions, Measure, OverDrive/Prism/VaultRam/Focus/Maestro, Hired-Ai, JobFlow.
 3. **Research proof tranche:** Einstein, OverDrive stack, Epiphany, ECA-1, G.A.I.A, Bio-Gene.
 4. **Platform ecosystem tranche:** Scout/Cannon/Nova/Parallel/Cadence/Sprout/Velocity/Chronos/Syncio/Plasma/Cortex.
